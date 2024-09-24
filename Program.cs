@@ -11,7 +11,7 @@
             Console.WriteLine(diceNumber);
 
 
-
+            //Hejhehjes
         }
     }
 }
