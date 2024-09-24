@@ -1,0 +1,15 @@
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\bin\Debug\net6.0\FirstProgramSu24b.exe
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\bin\Debug\net6.0\FirstProgramSu24b.deps.json
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\bin\Debug\net6.0\FirstProgramSu24b.runtimeconfig.json
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\bin\Debug\net6.0\FirstProgramSu24b.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\bin\Debug\net6.0\FirstProgramSu24b.pdb
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.csproj.AssemblyReference.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.AssemblyInfoInputs.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.AssemblyInfo.cs
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.csproj.CoreCompileInputs.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\refint\FirstProgramSu24b.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.pdb
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\FirstProgramSu24b.genruntimeconfig.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\FirstProgramSu24b\FirstProgramSu24b\obj\Debug\net6.0\ref\FirstProgramSu24b.dll
